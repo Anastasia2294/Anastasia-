@@ -12,8 +12,9 @@
 
 
 Из навыков,которымия овладела есть работа запросами баз данных в SQL.
-    Пример(часть запроса):
-![2023-10-04_17-00-59](https://github.com/Anastasia2294/Anastasia-/assets/146430640/76359dc7-7e79-4567-8375-f31c9f90fb8c)
+    Примеры запросов:
+  https://metabase.sky.pro/question/85775
+  https://metabase.sky.pro/question/90209 
 
 
 
